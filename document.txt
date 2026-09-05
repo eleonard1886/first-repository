@@ -1,4 +1,3 @@
-este es para un conflict 
-
-
+este es para un conflict
 nuevo cambio
+cambios desde la local
